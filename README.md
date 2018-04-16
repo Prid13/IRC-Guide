@@ -12,7 +12,7 @@ Follow the easy steps below without all the hassle and bs.
 
 2. Click to download the program
 
-> ![ClicksAndWhistles](https://i.imgur.com/Y0PmYHQ.png)
+  > ![ClicksAndWhistles](https://i.imgur.com/Y0PmYHQ.png)
 
 3. Open the ZIP file and extract the contents
 
