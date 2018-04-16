@@ -12,19 +12,19 @@ Follow the easy steps below without all the hassle and bs.
 
 2. Click to download the program
 
-> ![ClicksAndWhistles](https://i.imgur.com/Y0PmYHQ.png)
+    > ![ClicksAndWhistles](https://i.imgur.com/Y0PmYHQ.png)
 
 {:start="3"}
 3. Open the ZIP file and extract the contents
 
 4. Run **setup.exe**
 
-> ![ClicksAndWhistles Setup](https://i.imgur.com/FdBrmWX.png)
+    > ![ClicksAndWhistles Setup](https://i.imgur.com/FdBrmWX.png)
 
-
-  > **NOTETEST:** If you get a dialog asking you to download Visual C++ Runtime Libraries (x86), then press **Install**
-  >
-  > ![Visual C++ Runtime Libraries](https://i.imgur.com/caLUKoa.png)
+**NOTE**
+> If you get a dialog asking you to download Visual C++ Runtime Libraries (x86), then press **Install**
+>
+> ![Visual C++ Runtime Libraries](https://i.imgur.com/caLUKoa.png)
 
 
 
