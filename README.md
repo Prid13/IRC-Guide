@@ -26,7 +26,7 @@ Follow the easy steps below without all the hassle and bs.
 >
 > ![Visual C++ Runtime Libraries](https://i.imgur.com/caLUKoa.png)
 
-
+https://imgur.com/a/MN2o8
 
 ```markdown
 Syntax highlighted code block
