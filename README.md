@@ -18,11 +18,13 @@ Follow the easy steps below without all the hassle and bs.
 
 4. Run **setup.exe**
 
+> ![ClicksAndWhistles Setup](https://i.imgur.com/FdBrmWX.png)
+
 > **NOTE:** If you get a dialog asking you to download Visual C++ Runtime Libraries (x86), then press **Install**
 >
-> ![Visual C++ Runtime Libraries](https://i.imgur.com/jiJIQG7.png)
+> ![Visual C++ Runtime Libraries](https://i.imgur.com/caLUKoa.png)
 
-![ClicksAndWhistles Setup](https://i.imgur.com/caLUKoa.png)
+
 
 ```markdown
 Syntax highlighted code block
