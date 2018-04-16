@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+## So, you just want to download the anime you want?
 
-You can use the [editor on GitHub](https://github.com/Prid13/IRC-Guide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You just discovered an old gem, an obscure anime, or the best fansub out there for a show you like, but you just can't seem to find any good torrents with enough seeds to get the precious files. Out of pure frustration you embark on a long Google journey to find any alternatives or other ways to download the anime you want. After hours and hours of searching, you stumble upon something called IRC/XDCC, and see different fansubs listing them as alternative ways to download their files. But WHAT on Earth is an IRC, and why does it seem almost impossible to just get the files that I want?!?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Trust me, all true anime fans have been there, or at least **I** have, and I'm here to give you the quicket ticket out of your misery by presenting to you this straightforward guide without any cryptic nonsense added to it.
 
-### Markdown
+**2018/04/16: CURRENTLY, THIS GUIDE ONLY SHOWS HOW TO DOWNLOAD FROM HATSUYUKI FANSUBS**
+
+## 1. Download an IRC client/software
+
+You need a client (which basically means a software/program/app) to use IRC/XDCC, before you can download anything. I've tested out a lot of IRC clients to see which one's the easiest to use for our purposes, and I found a simple program called **ClicksAndWhistles**.
+
+![ClicksAndWhistles](https://github.com/Prid13/IRC-Guide/blob/master/image.png)
+
+1. Visit http://clicksandwhistles.com/download.php (_only available for Windows_)
+2. Click to download the program
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
