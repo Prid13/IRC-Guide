@@ -1,15 +1,17 @@
 **2018/04/16: CURRENTLY, THIS GUIDE ONLY SHOWS HOW TO DOWNLOAD FROM HATSUYUKI FANSUBS**
 
-### Just want to know how to easily download anime through IRC and XDCC _(because your torrent doesn't have any seeds)_ without all the hassle and bs? Follow the easy steps below.
+### Just want to know how to easily download anime through IRC and XDCC?
+Maybe your torrent doesn't have any seeds, so you have to opt to IRC/XDCC.
+Follow the easy steps below without all the hassle and bs.
 
 ## 1. Download an IRC client/software
 
-You need a client (which basically means a software/program/app) to use IRC/XDCC, before you can download anything. I've tested out a lot of IRC clients to see which one's the easiest to use for our purposes, and I found a simple program called **ClicksAndWhistles**.
-
-![ClicksAndWhistles](https://github.com/Prid13/IRC-Guide/blob/master/image.png)
+_You're free to download mIRC instead, but it has annoying 30-day trial notifications._
 
 1. Visit http://clicksandwhistles.com/download.php (_only available for Windows_)
 2. Click to download the program
+
+![ClicksAndWhistles](https://github.com/Prid13/IRC-Guide/blob/master/image.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
