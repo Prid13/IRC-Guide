@@ -1,0 +1,99 @@
+#mainNav .navbar-nav li.nav-item a.nav-link-dark {
+	color: #95a5a6;
+}
+
+.step-list ol > li:hover {
+	background-color: #eee;
+}
+
+.step-list-hover-dark ol > li:hover {
+	background-color: #067a63;
+}
+
+.step-list ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.step-list ol > li {
+  counter-increment: step-counter;
+  margin-bottom: 20px;
+  list-style-type:none;
+  font-size: 1.25rem;
+  padding: 8px 0px;
+}
+
+.step-list ol > li:not(:last-child) {
+	border-bottom: 1px solid #e1e8ed;
+	padding-bottom: 25px;
+}
+
+.step-list-hover-dark ol > li:not(:last-child) {
+	border-bottom: 1px solid #067a63;
+}
+
+.step-list ol > li::before {
+  content: counter(step-counter);
+  margin-right: 15px;
+  font-size: 100%;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  padding: 8px 13px;
+  border-radius: 3px;
+}
+
+.step-list-hover-dark ol > li::before {
+  background-color: white;
+  color: black;
+}
+
+.step-list img {
+	display: block;
+	width: 40%;
+	padding: 10px;
+	margin: 20px auto;
+	outline: #e1e8ed 1px solid;
+	background: #fbfbfb;
+}
+
+.step-list-hover-dark img {
+	outline: #067a63 1px solid;
+	background: #067a63;
+}
+
+.image-group {
+	width: 70%;
+	margin: 0 auto;
+}
+
+.image-group img {
+	width: 100%;
+}
+
+.btn-link {
+	font-weight: 700;
+	color: black;
+}
+
+.bounceEffect {
+  animation: bounce 1s infinite alternate;
+  -webkit-animation: bounce 1s infinite alternate;
+}
+@keyframes bounce {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-7px);
+  }
+}
+@-webkit-keyframes bounce {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-7px);
+  }
+}
